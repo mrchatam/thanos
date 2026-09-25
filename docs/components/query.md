@@ -156,7 +156,7 @@ Now it supports two strategies:
 
 NOTE: Having a warning does not necessarily mean partial response (e.g no store matched query warning).
 
-Querier also allows to configure different timeouts:
+Querier also allows configuring different timeouts:
 
 * `--query.timeout`
 * `--store.response-timeout`
